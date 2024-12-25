@@ -1,0 +1,54 @@
+.font_Arial {
+    font-weight: 400;
+    font-family: 'Arial';
+}
+
+.font_Arial-Italic {
+    font-weight: 400;
+    font-family: 'Arial-Italic';
+}
+
+.font_Parta {
+    font-weight: 400;
+    font-family: 'Parta';
+}
+
+.font-size_1rem {
+    font-size: 1rem;
+}
+
+.drop__list-element-style {
+    list-style-type: none;    
+}
+
+.flex {
+    display: flex;
+}
+
+.flex__items_center {
+    align-items: center;
+}
+
+.flex__justify_center {
+    justify-content: center;
+}
+
+.flex__justify_between {
+    justify-content: space-between;
+}
+
+.flex__space_around {
+    justify-content: space-around;
+}
+
+.flex__justify_end {
+    justify-content: end;
+}
+
+.margin-top_3 {
+    margin-top: 3rem;
+}
+
+.menu-transition {
+    transition: all 0.2s linear;
+}

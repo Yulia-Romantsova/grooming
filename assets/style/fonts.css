@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "Arial";
+    font-weight: 400;
+    src: url('../fonts/ARIAL.TTF') format('truetype'); 
+}
+
+@font-face {
+    font-family: "Arial-Italic";
+    font-weight: 400;
+    src: url('../fonts/Arial-italic.ttf') format('truetype'); 
+}
+
+@font-face {
+    font-family: "Parta";
+    font-weight: 400;
+    src: url('../fonts/Prata-Regular.ttf') format('truetype'); 
+}
